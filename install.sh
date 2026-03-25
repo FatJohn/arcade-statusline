@@ -6,7 +6,7 @@ CLAUDE_DIR="$HOME/.claude"
 SCRIPT_NAME="statusline.sh"
 TARGET="$CLAUDE_DIR/$SCRIPT_NAME"
 SETTINGS="$CLAUDE_DIR/settings.json"
-RAW_URL="https://raw.githubusercontent.com/sorosora/arcade-statusline/main/statusline.sh"
+RAW_URL="https://github.com/sorosora/arcade-statusline/releases/latest/download/statusline.sh"
 
 # Colours for output
 GREEN='\033[0;32m'
