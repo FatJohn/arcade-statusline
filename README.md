@@ -33,7 +33,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/sorosora/arcade-statusline/m
 1. Download the script:
    ```sh
    mkdir -p ~/.claude
-   curl -fsSL https://raw.githubusercontent.com/sorosora/arcade-statusline/main/statusline.sh -o ~/.claude/statusline.sh
+   curl -fsSL -L https://github.com/sorosora/arcade-statusline/releases/latest/download/statusline.sh -o ~/.claude/statusline.sh
    chmod +x ~/.claude/statusline.sh
    ```
 
